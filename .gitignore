@@ -1,0 +1,43 @@
+# --- Generated .gitignore 'un-ignore' rules for directory: /home/parallels/luanti-5.12.0 ---
+# --- Based on comparison with: /home/parallels/Downloads/luanti-stable-5 ---
+# Add these lines to the 'EXCEPTIONS' or 'CUSTOM RE-INCLUDE RULES' section
+# of your .gitignore file located in '/home/parallels/luanti-5.12.0'.
+# Ensure your .gitignore in '/home/parallels/luanti-5.12.0' starts with '*' to ignore everything by default,
+# and also includes '!.gitignore' itself.
+
+!/debug.txt
+!/games/asuna/
+!/games/asuna/**
+!/games/mesecraft/
+!/games/mesecraft/**
+!/games/mineclone2/
+!/games/mineclone2/**
+!/games/mineclonia/
+!/games/mineclonia/**
+!/games/repixture/
+!/games/repixture/**
+!/minetest.conf
+!/mod_data/
+!/mod_data/**
+!/mods/dmobs/
+!/mods/dmobs/**
+!/mods/lib_chatcmdbuilder/
+!/mods/lib_chatcmdbuilder/**
+!/mods/mobs/
+!/mods/mobs/**
+!/mods/mobs_skeletons/
+!/mods/mobs_skeletons/**
+!/mods/mobs_sky/
+!/mods/mobs_sky/**
+!/mods/myadmin/
+!/mods/myadmin/**
+!/mods/protector/
+!/mods/protector/**
+!/mods/whitelist/
+!/mods/whitelist/**
+!/worlds/asuna/
+!/worlds/asuna/**
+!/worlds/asuna-creative/
+!/worlds/asuna-creative/**
+!/worlds/mesecraft2/
+!/worlds/mesecraft2/**
