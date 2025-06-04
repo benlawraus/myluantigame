@@ -23,4 +23,3 @@ load_mod_mobs_skeletons = true
 load_mod_mobs_butterfly = true
 load_mod_lib_chatcmdbuilder = true
 load_mod_whitelist = true
-
