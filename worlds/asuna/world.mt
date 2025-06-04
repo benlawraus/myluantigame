@@ -1,0 +1,26 @@
+enable_damage = true
+creative_mode = false
+mod_storage_backend = sqlite3
+auth_backend = sqlite3
+player_backend = sqlite3
+backend = sqlite3
+gameid = asuna
+world_name = asuna
+server_announce = false
+load_mod_protector = true
+load_mod_mypickup = true
+load_mod_mycursing = true
+load_mod_mychats = true
+load_mod_mystart = true
+load_mod_mybadnames = true
+load_mod_myfirstthings = true
+load_mod_dmobs = true
+load_mod_mobs = true
+load_mod_myprivs = true
+load_mod_mobs_birds = true
+load_mod_mobs_bat = true
+load_mod_mobs_skeletons = true
+load_mod_mobs_butterfly = true
+load_mod_lib_chatcmdbuilder = true
+load_mod_whitelist = true
+
