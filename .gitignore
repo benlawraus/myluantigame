@@ -5,3 +5,6 @@
 !/mods/**
 !/games/**
 !/doc/**
+!/worlds/
+!/worlds/**
+!minetest.conf
